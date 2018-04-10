@@ -14340,9 +14340,17 @@ svg {
   min-height: 100vh;
 }
 
-.background-none {
+.background-color-none {
+  background-color: none;
+}
+
+.background-image-none {
   background-image: none;
+}
+
+.background-none {
   background-color: transparent;
+  background-image: none;
 }
 
 .background-frost-xs {
@@ -19357,9 +19365,17 @@ i.button:hover {
     min-height: 100vh;
   }
 
-  .background-none-mobile {
+  .background-color-none-mobile {
+    background-color: none;
+  }
+
+  .background-image-none-mobile {
     background-image: none;
+  }
+
+  .background-none-mobile {
     background-color: transparent;
+    background-image: none;
   }
 }
 
@@ -21537,8 +21553,16 @@ i.button:hover {
     min-height: 100vh;
   }
 
-  .background-none-tablet {
+  .background-color-none-tablet {
+    background-color: none;
+  }
+
+  .background-image-none-tablet {
     background-image: none;
+  }
+
+  .background-none-tablet {
     background-color: transparent;
+    background-image: none;
   }
 }
