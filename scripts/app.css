@@ -10903,7 +10903,7 @@ ul.subnav>li:not(.subnav-tip)>a::before {
   background-image: url(../assets/icons-nav.svg);
   background-repeat: repeat;
   background-size: 200px;
-  transition: all 0 ease-in-out;
+  transition: all .15s ease-out;
 }
 
 #nav-panel-contents .nav-items div ul.nav>li:not(.title)>a::before {
@@ -14603,6 +14603,11 @@ ul.vertical-list>*>:first-child+* {
   transition: all .25s cubic-bezier(.68,-.55,.265,1.55);
 }
 
+body {
+  background: #001932;
+  background-color: #001932;
+}
+
 ::-webkit-scrollbar-button {
   display: block;
   height: 0;
@@ -16070,6 +16075,7 @@ blockquote::after {
 
 @media screen and (min-height:0) and (max-height:565px) {
   .scroll-hint {
+    display: none;
     left: auto;
     right: 2em;
     bottom: 2em;
@@ -16542,12 +16548,16 @@ figure.slider-item {
   }
 }
 
+ul.accordion {
+  background: 0 0;
+}
+
 ul.accordion>li.accordion-item:first-child>:first-child {
-  border-radius: 8px 8px 0 0;
+  border-radius: 10px 10px 0 0;
 }
 
 ul.accordion>li.accordion-item:last-child:not(.is-active)>a.accordion-title {
-  border-radius: 0 0 8px 8px;
+  border-radius: 0 0 10px 10px;
 }
 
 ul.accordion>li.accordion-item a.accordion-title {
@@ -16569,14 +16579,13 @@ ul.accordion>li.accordion-item a.accordion-title::before {
 }
 
 ul.accordion>li.accordion-item>.accordion-content {
-  padding: 1rem;
-  background-color: transparent;
+  padding: 4rem 2rem 4em 2rem;
+  background-color: #fff;
 }
 
 ul.accordion>li.accordion-item>.accordion-content p {
   color: #333;
   font-size: 1em;
-  line-height: 2em;
 }
 
 ul.accordion>li.accordion-item.is-active a.accordion-title {
