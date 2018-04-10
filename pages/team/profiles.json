@@ -1,0 +1,69 @@
+{
+   "person": [
+       
+       {
+           "name": "Tony Tan",
+           "position": "CEO &amp; Chairman",
+		   "bio": "A visionary and philanthropist with a long string of entrepreneurial successes, Tony founded and ran ZCorum, America.net, and ISP Alliance. He built one of the first wholesale Internet Service Providers (ISPs) in the United States, and has a track record of rapidly transforming tiny startups into large, multi-million dollar businesses. Tony held global management positions at JP Morgan Chase, Securities Counsel, and the YMCA. He’s also an avid investor and has driven multiple charitable initiatives both domestically and abroad. Tony carries an MBA from the University of Chicago, one of the world's top MBA programs.",
+           "smallimage": "pages/team/small-tony-tan.jpg",
+           "largeimage": "pages/team/large-tony-tan.jpg"
+       },
+       
+       {
+           "name": "Ben Ow",
+           "position": "CTO &amp; President",
+		   "bio": "Ben has a strong history of leading the creation of stunning, industry-shaking technologies. He started and cultivated a one-man operation into a powerhouse computing company that represented brands like Panasonic, Fujitsu, and Acer. He’s co-founded several successful businesses, held executive leadership positions in more, and is the mastermind behind ViaCube, the winner of CES’s 2006 “Best Of” Innovation Award. He also completed all course work for the PHD program in Artificial Intelligence at Northwestern University.",
+           "smallimage": "pages/team/small-ben-ow.jpg",
+           "largeimage": "pages/team/large-ben-ow.jpg"
+       },
+       
+       {
+           "name": "Jeremy Forsberg",
+           "position": "CMO &amp; VP",
+		   "bio": "Jeremy was co-founder and CEO of the NAVADA Group - a creative agency that worked with some of Europe’s most powerful and recognizable brands. He boosted audience engagement for a horse racing brand by over 2,000%, turning it into the top racing brand in the UK. He’s best known for leading the award-winning “Road Respect” campaign, wielding viral content to slash drunk driving incidents. Jeremy is also a regular guest on BBC Radio.",
+           "smallimage": "pages/team/small-jeremy-forsberg.jpg",
+           "largeimage": "pages/team/large-jeremy-forsberg.jpg"
+       },
+       
+       {
+           "name": "Rick Stiles",
+           "position": "VP of Product Development",
+		   "bio": "A communications technology veteran with decades of experience, Rick has spearheaded the development of many innovative communications technologies, some of which are commonly used today. He’s served as Vice-President of major telecom companies like HyperEdge and NA Communications, and led product development at others. Rick is named in several significant U.S. patents.",
+           "smallimage": "pages/team/small-rick-stiles.jpg",
+           "largeimage": "pages/team/large-rick-stiles.jpg"
+       },
+       
+       {
+           "name": "Diana Zhang",
+           "position": "VP of Finance",
+		   "bio": "With an excellent undergraduate academic record, Diane was offered a research assistantship to pursue graduate studies at The University of Cincinnati. She graduated with an MA in Economics and then pursued her passion for accounting and finance. A Certified Public Account (CPA) since 2006, Diane has accumulated years of hands-on experience in finance and accounting through working for public and private companies across a variety of different industries.",
+           "smallimage": "pages/team/small-diana-zhang.jpg",
+           "largeimage": "pages/team/large-diana-zhang.jpg"
+       },
+       
+       {
+           "name": "Dmitry Kogosov",
+           "position": "VP of Operations",
+		   "bio": "Retail. Mortgage Banking. Tech. Dmitry has supervised teams in all these fields, and many more besides. At IngramMicro, he handled clients like Dell and other national brands. His specialty is pulling people together from different parts of the world, each with their own time and language and culture - and creating a cohesive team focused on a singular goal.",
+           "smallimage": "pages/team/small-dmitry-kogosov.jpg",
+           "largeimage": "pages/team/large-dmitry-kogosov.jpg"
+       },
+       
+       {
+		   "name": "Dmytro Ashkinazi",
+           "position": "Director of European Operations",
+		   "bio": "Veteran entrepreneur and software specialist. Dmytro founded, built, and sold Dneper and iDom, two European tech companies. He’s spent years in IT consulting, helping businesses develop incredible technologies. He brings with him a strong business skill set and vast technical acumen that are born of his experience working in some of the world’s best-known tech giants.",
+           "smallimage": "pages/team/small-dmytro-ashkinazi.jpg",
+           "largeimage": "pages/team/large-dmytro-ashkinazi.jpg"
+       },
+       
+       {
+           "name": "Sandy Zhou",
+           "position": "Executive Director of Asian Operations",
+		   "bio": "Sandy Zhou is the senior local executive overseeing StoAmigo’s China and Asian operations. Her responsibilities include managing the company’s Asian staff, financial management, oversight of all software testing, research and development efforts in Asia and coordination with our offices in the US and Europe. Sandy is a financial industry professional, having held leadership and management positions in various financial organizations. She is also a certified accountant with education from Southwest University of Finance and Economics. She also holds a Certificate in the field of insurance issued by the China Insurance Regulatory Commission",
+           "smallimage": "pages/team/small-sandy-zhou.jpg",
+           "largeimage": "pages/team/large-sandy-zhou.jpg"
+       }
+
+   ]
+}
