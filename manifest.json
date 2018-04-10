@@ -1,0 +1,21 @@
+{
+    "name": "StoAmigo",
+    "short_name": "StoAmigo",
+	"start_url": "index.html",
+	"display": "standalone",
+	"description": "StoAmigo combines all your different devices into a single file ecosystem. Access, transfer, or send files from any device – no matter where they're stored. All without upload times, size limits, or security worries.",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}
