@@ -24,6 +24,14 @@
            "smallimage": "pages/team/small-jeremy-forsberg.jpg",
            "largeimage": "pages/team/large-jeremy-forsberg.jpg"
        },
+
+	   {
+           "name": "Dave Kaplan",
+           "position": "General Councel",
+		   "bio": "A proven attorney who focuses on the intersection of business, technology, and law. Dave has played a leading role in high-stakes litigation in a broad array of forums, including in many patent matters. He has represented clients such as Volkswagen, Sony, Lenovo, Olympus, Toyota, and GE Healthcare, but also has successfully represented clients against adversaries with much deeper pockets. Dave carries a B.S.E. from the University of Michigan College of Engineering and a law degree from Rutgers University.",
+           "smallimage": "pages/team/small-dave-kaplan.jpg",
+           "largeimage": "pages/team/large-dave-kaplan.jpg"
+       },
        
        {
            "name": "Rick Stiles",
@@ -60,10 +68,11 @@
        {
            "name": "Sandy Zhou",
            "position": "Executive Director of Asian Operations",
-		   "bio": "Sandy Zhou is the senior local executive overseeing StoAmigo’s China and Asian operations. Her responsibilities include managing the company’s Asian staff, financial management, oversight of all software testing, research and development efforts in Asia and coordination with our offices in the US and Europe. Sandy is a financial industry professional, having held leadership and management positions in various financial organizations. She is also a certified accountant with education from Southwest University of Finance and Economics. She also holds a Certificate in the field of insurance issued by the China Insurance Regulatory Commission",
+		   "bio": "Sandy Zhou is the senior local executive overseeing StoAmigo’s China and Asian operations. Her responsibilities include managing the company’s Asian staff, financial management, oversight of all software testing, research and development efforts in Asia and coordination with our offices in the US and Europe. Sandy is a financial industry professional, having held leadership and management positions in various financial organizations. She is also a certified accountant with education from Southwest University of Finance and Economics. She also holds a Certificate in the field of insurance issued by the China Insurance Regulatory Commission.",
            "smallimage": "pages/team/small-sandy-zhou.jpg",
            "largeimage": "pages/team/large-sandy-zhou.jpg"
        }
+
 
    ]
 }
