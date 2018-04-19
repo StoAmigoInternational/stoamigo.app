@@ -4,7 +4,7 @@
        {
            "name": "Tony Tan",
            "position": "CEO &amp; Chairman",
-		   "bio": "A visionary and philanthropist with a long string of entrepreneurial successes, Tony founded and ran ZCorum, America.net, and ISP Alliance. He built one of the first wholesale Internet Service Providers (ISPs) in the United States, and has a track record of rapidly transforming tiny startups into large, multi-million dollar businesses. Tony held global management positions at JP Morgan Chase, Securities Counsel, and the YMCA. He’s also an avid investor and has driven multiple charitable initiatives both domestically and abroad. Tony carries an MBA from the University of Chicago, one of the world's top MBA programs.",
+		   "bio": "A visionary and philanthropist with a long string of entrepreneurial successes, Tony founded and ran ZCorum, America.net, and ISP Alliance. He built one of the first wholesale Internet Service Providers (ISPs) in the United States, and has a track record of rapidly transforming tiny startups into large, multi-million dollar businesses. Tony held global management positions at JP Morgan Chase, Securities Counsel, and the YMCA. He's also an avid investor and has driven multiple charitable initiatives both domestically and abroad. Tony carries an MBA from the University of Chicago, one of the world's top MBA programs.",
            "smallimage": "pages/team/small-tony-tan.jpg",
            "largeimage": "pages/team/large-tony-tan.jpg"
        },
@@ -12,7 +12,7 @@
        {
            "name": "Ben Ow",
            "position": "CTO &amp; President",
-		   "bio": "Ben has a strong history of leading the creation of stunning, industry-shaking technologies. He started and cultivated a one-man operation into a powerhouse computing company that represented brands like Panasonic, Fujitsu, and Acer. He’s co-founded several successful businesses, held executive leadership positions in more, and is the mastermind behind ViaCube, the winner of CES’s 2006 “Best Of” Innovation Award. He also completed all course work for the PHD program in Artificial Intelligence at Northwestern University.",
+		   "bio": "Ben has a strong history of leading the creation of stunning, industry-shaking technologies. He started and cultivated a one-man operation into a powerhouse computing company that represented brands like Panasonic, Fujitsu, and Acer. He's co-founded several successful businesses, held executive leadership positions in more, and is the mastermind behind ViaCube, the winner of CES's 2006 “Best Of” Innovation Award. He also completed all course work for the PhD program in Artificial Intelligence at Northwestern University.",
            "smallimage": "pages/team/small-ben-ow.jpg",
            "largeimage": "pages/team/large-ben-ow.jpg"
        },
@@ -20,14 +20,14 @@
        {
            "name": "Jeremy Forsberg",
            "position": "CMO &amp; VP",
-		   "bio": "Jeremy was co-founder and CEO of the NAVADA Group - a creative agency that worked with some of Europe’s most powerful and recognizable brands. He boosted audience engagement for a horse racing brand by over 2,000%, turning it into the top racing brand in the UK. He’s best known for leading the award-winning “Road Respect” campaign, wielding viral content to slash drunk driving incidents. Jeremy is also a regular guest on BBC Radio.",
+		   "bio": "Jeremy was co-founder and CEO of the NAVADA Group - a creative agency that worked with some of Europe's most powerful and recognizable brands. He boosted audience engagement for a horse racing brand by over 2,000%, turning it into the top racing brand in the UK. He's best known for leading the award-winning “Road Respect” campaign, wielding viral content to slash drunk driving incidents. Jeremy is also a regular guest on BBC Radio.",
            "smallimage": "pages/team/small-jeremy-forsberg.jpg",
            "largeimage": "pages/team/large-jeremy-forsberg.jpg"
        },
 
 	   {
            "name": "Dave Kaplan",
-           "position": "General Counsel",
+           "position": "VP of General Counse",
 		   "bio": "A proven attorney who focuses on the intersection of business, technology, and law. Dave has played a leading role in high-stakes litigation in a broad array of forums, including in many patent matters. He has represented clients such as Volkswagen, Sony, Lenovo, Olympus, Toyota, and GE Healthcare, but also has successfully represented clients against adversaries with much deeper pockets. Dave carries a B.S.E. from the University of Michigan College of Engineering and a law degree from Rutgers University.",
            "smallimage": "pages/team/small-dave-kaplan.jpg",
            "largeimage": "pages/team/large-dave-kaplan.jpg"
@@ -36,7 +36,7 @@
        {
            "name": "Rick Stiles",
            "position": "VP of Product Development",
-		   "bio": "A communications technology veteran with decades of experience, Rick has spearheaded the development of many innovative communications technologies, some of which are commonly used today. He’s served as Vice-President of major telecom companies like HyperEdge and NA Communications, and led product development at others. Rick is named in several significant U.S. patents.",
+		   "bio": "A communications technology veteran with decades of experience, Rick has spearheaded the development of many innovative communications technologies, some of which are commonly used today. He's served as Vice-President of major telecom companies like HyperEdge and NA Communications, and led product development at others. Rick is named in several significant U.S. patents.",
            "smallimage": "pages/team/small-rick-stiles.jpg",
            "largeimage": "pages/team/large-rick-stiles.jpg"
        },
@@ -60,7 +60,7 @@
        {
 		   "name": "Dmytro Ashkinazi",
            "position": "Director of European Operations",
-		   "bio": "Veteran entrepreneur and software specialist. Dmytro founded, built, and sold Dneper and iDom, two European tech companies. He’s spent years in IT consulting, helping businesses develop incredible technologies. He brings with him a strong business skill set and vast technical acumen that are born of his experience working in some of the world’s best-known tech giants.",
+		   "bio": "Veteran entrepreneur and software specialist. Dmytro founded, built, and sold Dneper and iDom, two European tech companies. He's spent years in IT consulting, helping businesses develop incredible technologies. He brings with him a strong business skill set and vast technical acumen that are born of his experience working in some of the world's best-known tech giants.",
            "smallimage": "pages/team/small-dmytro-ashkinazi.jpg",
            "largeimage": "pages/team/large-dmytro-ashkinazi.jpg"
        },
@@ -68,7 +68,7 @@
        {
            "name": "Sandy Zhou",
            "position": "Executive Director of Asian Operations",
-		   "bio": "Sandy Zhou is the senior local executive overseeing StoAmigo’s China and Asian operations. Her responsibilities include managing the company’s Asian staff, financial management, oversight of all software testing, research and development efforts in Asia and coordination with our offices in the US and Europe. Sandy is a financial industry professional, having held leadership and management positions in various financial organizations. She is also a certified accountant with education from Southwest University of Finance and Economics. She also holds a Certificate in the field of insurance issued by the China Insurance Regulatory Commission.",
+		   "bio": "Sandy Zhou is the senior local executive overseeing StoAmigo's China and Asian operations. Her responsibilities include managing the company's Asian staff, financial management, oversight of all software testing, research and development efforts in Asia and coordination with our offices in the US and Europe. Sandy is a financial industry professional, having held leadership and management positions in various financial organizations. She is also a certified accountant with education from Southwest University of Finance and Economics. She also holds a Certificate in the field of insurance issued by the China Insurance Regulatory Commission.",
            "smallimage": "pages/team/small-sandy-zhou.jpg",
            "largeimage": "pages/team/large-sandy-zhou.jpg"
        }
