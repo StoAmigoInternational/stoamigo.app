@@ -1,83 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/about.html</loc>
-        <lastmod>2018-04-24T23:42:31.044Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/access.html</loc>
-        <lastmod>2018-04-24T23:42:31.048Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/careers.html</loc>
-        <lastmod>2018-04-24T23:42:31.054Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/contact.html</loc>
-        <lastmod>2018-04-24T23:42:31.065Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/copyright.html</loc>
-        <lastmod>2018-04-24T23:42:31.070Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/download.html</loc>
-        <lastmod>2018-04-24T23:42:31.077Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/error.html</loc>
-        <lastmod>2018-04-24T23:42:31.083Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/eula.html</loc>
-        <lastmod>2018-04-24T23:42:31.084Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/faq.html</loc>
-        <lastmod>2018-04-24T23:42:31.085Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/help-center.html</loc>
-        <lastmod>2018-04-24T23:42:31.086Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/</loc>
-        <lastmod>2018-04-24T23:42:31.087Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/integration.html</loc>
-        <lastmod>2018-04-24T23:42:31.088Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/plans.html</loc>
-        <lastmod>2018-04-24T23:42:31.089Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/privacy-bill-of-rights.html</loc>
-        <lastmod>2018-04-24T23:42:31.089Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/security.html</loc>
-        <lastmod>2018-04-24T23:42:31.090Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/sharing.html</loc>
-        <lastmod>2018-04-24T23:42:31.091Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/streaming.html</loc>
-        <lastmod>2018-04-24T23:42:31.091Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/team.html</loc>
-        <lastmod>2018-04-24T23:42:31.092Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/terms.html</loc>
-        <lastmod>2018-04-24T23:42:31.093Z</lastmod>
-    </url>
-    <url>
-        <loc>https://stoamigointernational.github.io/stoamigo.app/transfer.html</loc>
-        <lastmod>2018-04-24T23:42:31.094Z</lastmod>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://stoamigo.com/index</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/sharing</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/access</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/security</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/transfer</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/streaming</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/integration</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/about</loc>
+  <lastmod>2018-05-15T17:54:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/team</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/careers</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/contact</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/faq</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/plans</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/download</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/terms</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/eula</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/privacy-bill-of-rights</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stoamigo.com/copyright</loc>
+  <lastmod>2018-05-15T17:50:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
