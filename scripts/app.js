@@ -1,3 +1,16 @@
+var f = document.getElementsByTagName('script')[0],
+	j = document.createElement('script');
+
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtag/js?id=UA-92957315-1';
+f.parentNode.insertBefore(j,f);
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+	window.dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'UA-92957315-1');
+
 function initSignin() {
 	jQuery("input[type=email]").prop({
 		pattern: "^\\s*([A-Za-z0-9!#$%&*+/\\-^=?_{|}~]+[.])*[A-Za-z0-9!#$%&*+/\\-^=?_{|}~]+@(([A-Za-z0-9]+[.-])*[A-Za-z0-9]+\\.[A-Za-z]{2,})\\s*$"
