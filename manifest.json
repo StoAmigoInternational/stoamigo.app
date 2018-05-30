@@ -2,7 +2,7 @@
     "name": "AXEL",
     "short_name": "AXEL",
 	"start_url": "index.html",
-	"display": "browser",
+	"display": "standalone",
 	"description": "AXEL combines all your different devices into a single file ecosystem. Access, transfer, or send files from any device – no matter where they're stored. All without upload times, size limits, or security worries.",
     "icons": [
         {
