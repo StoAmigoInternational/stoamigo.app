@@ -1,9 +1,9 @@
 {
-    "name": "StoAmigo",
-    "short_name": "StoAmigo",
+    "name": "AXEL",
+    "short_name": "AXEL",
 	"start_url": "index.html",
 	"display": "standalone",
-	"description": "StoAmigo combines all your different devices into a single file ecosystem. Access, transfer, or send files from any device – no matter where they're stored. All without upload times, size limits, or security worries.",
+	"description": "AXEL combines all your different devices into a single file ecosystem. Access, transfer, or send files from any device – no matter where they're stored. All without upload times, size limits, or security worries.",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -16,6 +16,6 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff"
+    "theme_color": "#6400fa",
+    "background_color": "#6400fa"
 }
